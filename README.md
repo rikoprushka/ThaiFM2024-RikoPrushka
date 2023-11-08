@@ -1,5 +1,7 @@
 # ThaiFM2024-RikoPrushka
- ภาษาไทยสำหรับ Football Manager 2024
+ภาษาไทยสำหรับ Football Manager 2024
+
+ ![alt text](https://i.imgur.com/perHVzq.png "ภาษาไทยสำหรับ Football Manager 2024")
 
 # วิธีการติดตั้งภาษาไทยสำหรับ Football Manager 2024
 
