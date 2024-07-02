@@ -36,3 +36,6 @@ $HOME/Library/Application Support/Sports Interactive/Football Manager 2024/langu
 ```
 $HOME/Library/Application Support/Sports Interactive/Football Manager 2024/
 ```
+![GitHub Downloads (specific asset, all releases)](https://img.shields.io/github/downloads/rikoprushka/ThaiFM2024-RikoPrushka/ThaiFM2024RikoPrushkaInstallerFull.exe)
+
+![GitHub Downloads (specific asset, all releases)](https://img.shields.io/github/downloads/rikoprushka/ThaiFM2024-RikoPrushka/ThaiFM2024RikoPrushka.ltc)
