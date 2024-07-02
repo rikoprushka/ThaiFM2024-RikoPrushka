@@ -40,4 +40,4 @@ $HOME/Library/Application Support/Sports Interactive/Football Manager 2024/
 
 ![GitHub Downloads (specific asset, all releases)](https://img.shields.io/github/downloads/rikoprushka/ThaiFM2024-RikoPrushka/ThaiFM2024RikoPrushka.ltc)
 
-![Steam Subscriptions](https://img.shields.io/steam/subscriptions/3074556340?style=flat&logo=steam&label=Current%20Subscribers&labelColor=1b2838&color=91b007)
+![Steam Subscriptions](https://img.shields.io/steam/subscriptions/3074556340?style=flat&logo=steam&label=Current%20Subscribers&labelColor=1b2838&color=5784b0)
